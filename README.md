@@ -5,7 +5,10 @@
 
 - 📫 How to reach me **pierluigi.capirci89@gmail.com**
 
-- 📄 Know about my experiences [Hi! I'm Pierluigi Capirci, an Italian croupier passionate about coding and cybersecurity. I recently completed an intensive 6-month boot camp with Boolean, where I gained comprehensive knowledge and hands-on experience in full-stack development, covering both frontend and backend technologies.](Hi! I'm Pierluigi Capirci, an Italian croupier passionate about coding and cybersecurity. I recently completed an intensive 6-month boot camp with Boolean, where I gained comprehensive knowledge and hands-on experience in full-stack development, covering both frontend and backend technologies.)
+- 📄 Know about my experiences: Hi! I'm Pierluigi Capirci, an Italian croupier passionate about coding and cybersecurity.<br>
+                                I recently completed an intensive 6-month boot camp with Boolean,
+                                where I gained comprehensive knowledge and hands-on experience in full-stack development,
+                                covering both frontend and backend technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
