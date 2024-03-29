@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **pierluigi.capirci89@gmail.com**
 
+- 🚀 Portfolio pierluigi-simple-portfolio.netlify.app
+
 - 📄 Know about my experiences: Hi! I'm Pierluigi Capirci, an Italian croupier passionate about coding and cybersecurity.<br>
                                 I recently completed an intensive 6-month boot camp with Boolean,
                                 where I gained comprehensive knowledge and hands-on experience in full-stack development,
